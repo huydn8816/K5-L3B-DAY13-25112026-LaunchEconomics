@@ -12,8 +12,8 @@
 | STT | Họ tên | MSSV | Email | GitHub | Vai trò |
 | --: | ------ | ---- | ----- | ------ | ------- |
 |   1 | Phạm Đức Vinh | 2A202603849     | 26ai.vinhpd@vinuni.edu.vn      |  vindpd203      | Người viết code (trước giải lao) |
-|   2 | Ngô Duy Khánh | 2A202603870 | | | Người kiểm số (sau giải lao nhận viết code) |
-|   3 | Nguyễn Thế Bảo | 2A202603825 | 26ai.baont4@vinuni.edu.vn |        | Người gắn nhãn 1 |
+|   2 | Ngô Duy Khánh | 2A202603870 | | dkhanhdev | Người kiểm số (sau giải lao nhận viết code) |
+|   3 | Nguyễn Thế Bảo | 2A202603825 | 26ai.baont4@vinuni.edu.vn | NTheBao | Người gắn nhãn 1 |
 |   4 | Đặng Nhật Huy | 2A202603822 | 26ai.huydn@vinuni.edu.vn |  huydn8816      | Người gắn nhãn 2, kiêm giữ hồ sơ |
 
 Bốn vai của lab:
