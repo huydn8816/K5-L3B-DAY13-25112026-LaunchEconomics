@@ -5,7 +5,7 @@
 - Tên nhóm: 25112026
 - Lớp: L3B
 - Repo nhóm: `K5-L3B-DAY13-25112026-LaunchEconomics` (xem [SUBMISSION.md](SUBMISSION.md))
-- URL repo, nhánh nộp, commit chốt:
+- URL repo, nhánh nộp, commit chốt: https://github.com/huydn8816/K5-L3B-DAY13-25112026-LaunchEconomics · nhánh `main` · commit chốt: commit cuối trên `main` trước 23h59 GMT+7 ngày 25/11/2026
 
 ## Thành viên
 
@@ -13,7 +13,7 @@
 | --: | ------ | ---- | ----- | ------ | ------- |
 |   1 | Phạm Đức Vinh | 2A202603849     | 26ai.vinhpd@vinuni.edu.vn      |  vindpd203      | Người viết code (trước giải lao) |
 |   2 | Ngô Duy Khánh | 2A202603870 | | | Người kiểm số (sau giải lao nhận viết code) |
-|   3 | Nguyễn Thế Bảo | 2A202603825 |       |        | Người gắn nhãn 1 |
+|   3 | Nguyễn Thế Bảo | 2A202603825 | 26ai.baont4@vinuni.edu.vn |        | Người gắn nhãn 1 |
 |   4 | Đặng Nhật Huy | 2A202603822 | 26ai.huydn@vinuni.edu.vn |  huydn8816      | Người gắn nhãn 2, kiêm giữ hồ sơ |
 
 Bốn vai của lab:

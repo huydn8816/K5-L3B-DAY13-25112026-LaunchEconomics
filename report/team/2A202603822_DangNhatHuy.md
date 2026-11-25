@@ -23,8 +23,6 @@
 - Chốt đề xuất **Go có điều kiện** cho pilot `noi_dia` + `hang_nang`, nêu 3 con số bất lợi (xem lại 100% = 0,98× [simulated], power 0,64, mở lại hiện tại 4,25%) và 5 điều kiện có người phụ trách, ngày kiểm tra.
 - Thêm phần tính power vào `src/lab13.py` (0,64 khi tác động thật 5 điểm, n = 859/nhóm).
 - Gộp conflict khi merge `main` (`chi_so.md`, `TEAM.md`); cập nhật `TEAM.md` và báo cáo nhóm mục 1–5, 7, 8.
-- ... (bổ sung sau 17:00: phiếu chấm nhóm n + 1, kết quả duyệt chéo)
-
 ## 4. Bằng chứng
 
 Commit, file, bảng hoặc con số do bạn làm.
@@ -42,7 +40,7 @@ Công cụ nào, dùng vào việc gì, bạn tự kiểm tra kết quả ra sao
     - Chạy lại `cd src && python lab13.py` và so từng con số trong hồ sơ, `chi_so.md` với output của code (A2, A3, A4, B1–B4, D1, E1, tỉ lệ mở lại 4,25% / 3,97%).
     - Tính tay power ở mức 5 điểm với n = 859/nhóm (0,642) trước khi đưa con số 0,64 vào hồ sơ, rồi thêm phép tính vào `lab13.py`.
     - Đếm lại trên CSV số ca làm lại trong phạm vi `noi_dia` + `hang_nang` (48/982) trước khi đặt ngưỡng 7% trong rủi ro E2.
-    - Kiểm tra `pilot_plan.yaml` đọc được bằng `yaml.safe_load`, không còn dấu `?` ngoài chú thích; `grep -rni production report/team` không in gì; mọi số từ cột `_simulated` có nhãn `simulated`.
+    - Kiểm tra `pilot_plan.yaml` đọc được bằng `yaml.safe_load`, không còn dấu `?` ngoài chú thích; tìm trong `report/team` không còn từ bị cấm theo quy tắc 5 của lab; mọi số từ cột `_simulated` có nhãn `simulated`.
     - Đọc lại phần AI soạn và chỉnh những chỗ chưa đúng tình trạng thực tế (ví dụ số event 9 → 11, nhãn `simulated` còn thiếu ở một con số).
 
 ## 6. Tự đánh giá
