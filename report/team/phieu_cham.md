@@ -18,4 +18,10 @@ Nhóm số n chấm nhóm số n + 1; nhóm cuối chấm nhóm 1. Chấm theo b
 
 **Một câu hỏi cho đội trình:** Xem lại 100% tốn 11.743 đ/việc, cao hơn ngưỡng 8.000 đ. Hai tuần đầu nhân viên xem lại bao nhiêu %, luật dừng chi phí có kích hoạt ngay không?
 
-**Câu trả lời của đội trình (ghi lại tại buổi):** ...
+**Câu trả lời của đội trình (ghi lại tại buổi):** Nhóm 9 trả lời 3 câu hỏi khác trong bộ câu hỏi của nhóm 8; câu hỏi chính ở trên (xem lại 100% so với ngưỡng 8.000 đ) chưa được trả lời tại buổi.
+
+- **Tỉ lệ so với 12.000 đ:** 4.599 đ = 0,38× và 5.784 đ = 0,48× là chi phí trong phạm vi pilot đã cộng cố định; 5.865 đ = 0,49× là toàn mẫu, chưa cộng cố định. Trong phạm vi `noi_dia` + `hang_nang`: (3.072.513 + 82 × 12.000) / 982 ≈ 4.131 đ/yêu cầu = 0,34× (simulated, chưa cộng cố định). Hội đồng đối chiếu: đúng.
+- **Chỉ số "gợi ý hiển thị":** nhóm 9 đồng ý chỉ số chỉ đo mức hiển thị; trong pilot sẽ nối `agent_suggestion_shown` với `staff_review_decision` (giữ / sửa / bỏ) và `refund_ledger_write` theo `trace_id`. Trong dữ liệu, 129/177 = 72,88% ca được xem lại giữ nguyên gợi ý, không suy rộng thành tỉ lệ nhân viên dùng trợ lý. Hội đồng đối chiếu: đúng; công thức trong hồ sơ chưa sửa.
+- **Thu mẫu trùng Tết Dương lịch:** kéo dài thu mẫu và lùi ngày quyết định, giữ nhân viên trong nhánh đã phân, không loại người ít đơn; điều kiện đủ 20 nhân viên/nhánh, ≥ 299 yêu cầu/người, ≥ 5.980 yêu cầu thô/nhánh, kiểm tra lại DE và đủ 7 ngày theo dõi. Không đủ mẫu thì kết luận chưa đủ bằng chứng để mở rộng.
+
+Các câu trả lời có số đúng và nhận điểm yếu; hội đồng giữ điểm 30/30 và quyết định Go có điều kiện.
