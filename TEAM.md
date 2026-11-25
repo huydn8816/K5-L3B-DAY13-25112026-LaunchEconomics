@@ -88,6 +88,7 @@ Sao chép mục dưới đây cho từng thành viên.
 - Đề xuất 2 chỉ số (tỉ lệ nhân viên mở gợi ý; tỉ lệ đơn hoàn sai tiền qua kiểm tra mẫu hằng tuần) và 3 dòng rủi ro kinh tế lấy số từ bảng độ nhạy.
 - Gắn nhãn độc lập 20 ca lỗi (đồng thuận 20/20 với người gắn nhãn 1); hoàn thiện bảng khắc phục 5 ca và bổ sung 2 event `handoff_to_staff`, `input_validation_failed`.
 - Thêm phần tính power (0,64 khi tác động thật 5 điểm, n = 859/nhóm) vào `src/lab13.py`; viết mục 1–3 báo cáo nhóm.
+- Duyệt chéo Gate 2a: trả lời 10 câu hỏi của nhóm 7 ([TraLoi_Nhom7.md](TraLoi_Nhom7.md)), soạn câu hỏi và phiếu chấm nhóm 9 ([CauHoi_Nhom9.md](CauHoi_Nhom9.md), [report/team/phieu_cham.md](report/team/phieu_cham.md)).
 
 ### Bằng chứng
 

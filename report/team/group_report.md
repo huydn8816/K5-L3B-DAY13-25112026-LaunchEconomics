@@ -4,7 +4,7 @@ Báo cáo ngắn, tối đa 2 trang. Số liệu chi tiết nằm trong các fil
 
 ## 1. Thông tin nhóm
 
-- Tên nhóm: 25112026
+- Tên nhóm: 25112026 (nhóm 8)
 - Lớp: L3B
 - Thành viên: xem `TEAM.md`
 
@@ -47,7 +47,11 @@ Con số chính (ghi nhãn `simulated` khi cần) và đề xuất cuối của 
 | Pilot | Chia theo nhân viên, 20 + 20 cụm, n = 859/nhóm, mde 0,06; 3 luật dừng; ngày quyết định 2027-01-05 |
 | Con số bất lợi | Xem lại 100%: 11.743 đ = 0,98× (12.415 đ = 1,03× nếu làm lại 15,3 phút/ca) [simulated]; power 0,64 nếu tác động thật chỉ 5 điểm |
 
-**Kết quả duyệt chéo từ hội đồng:** nhóm hội đồng: ... · điểm: ... / 30 · quyết định: ... · câu hỏi hội đồng đặt ra: ... · nhóm trả lời: ...
+**Kết quả duyệt chéo từ hội đồng:** nhóm hội đồng: Nhóm 7 · điểm: ... / 30 · quyết định: ...
+
+Nhóm 7 đặt 10 câu hỏi (lợi ích ròng, độ nhạy khi số giả lập lệch 15%, kịch bản hai yếu tố bất lợi cùng lúc, lỗi gây thất thoát lớn nhất, quy trình chuyển về thủ công, ngưỡng No-go…). Nhóm 8 trả lời bằng số trong [TraLoi_Nhom7.md](../../TraLoi_Nhom7.md), ví dụ: hai yếu tố bất lợi nhất cùng lúc cho 8.607 đ/việc (+92,5%) = 0,72× [simulated], vượt ngưỡng 8.000 đ nên luật dừng chi phí kích hoạt; phút giả lập lệch +15% thì chi phí trong phạm vi lên 3.889 đ, kết luận không đổi [simulated]. Ba điểm nhóm nhận còn thiếu và bổ sung trước pilot: ngưỡng phát hiện nhân viên chấp nhận bừa, diễn tập cờ tắt, tách chi phí theo depot.
+
+**Nhóm 8 làm hội đồng cho nhóm 9:** chấm 30/30, quyết định Go có điều kiện ([phieu_cham.md](phieu_cham.md)); câu hỏi: xem lại 100% (11.743 đ) có làm luật dừng chi phí 8.000 đ kích hoạt ngay ở hai tuần đầu không.
 
 ## 5. Khó khăn và cách xử lý
 
