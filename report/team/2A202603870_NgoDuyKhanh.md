@@ -8,7 +8,7 @@ Ví dụ: `20241234_NguyenVanAn.md`.
 
 - Họ tên: Ngô Duy Khánh
 - MSSV: 2A202603870
-- Email:
+- Email: 26ai.khanhnd6@vinuni.edu.vn
 - Vai trong nhóm (người viết code, người kiểm số, người gắn nhãn 1, người gắn nhãn 2 kiêm giữ hồ sơ): Người kiểm số (sau giải lao nhận viết code)
 
 ## 2. Phần việc phụ trách
