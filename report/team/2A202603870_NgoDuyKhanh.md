@@ -46,7 +46,7 @@ Ví dụ: `20241234_NguyenVanAn.md`.
 - **Mục đích sử dụng:** Hỗ trợ kiểm tra công thức tính cỡ mẫu hiệu dụng khi phân cụm ($DE = 1 + (m - 1) \times \text{ICC}$), rà soát cú pháp YAML của `pilot_plan.yaml` và kiểm tra việc tuân thủ 5 quy tắc của bài lab (nhãn `simulated`, câu trả lời $\le 3$ dòng có số liệu, chỉ giới hạn ở phạm vi kế hoạch pilot).
 - **Cách tự kiểm tra kết quả:** Tự tính tay lại các phép tính trọng tâm trên máy tính bỏ túi, kiểm tra điều kiện bất biến ở bảng độ nhạy (`mức giảm khi giảm một nửa = 1/2 mức tăng khi gấp đôi`), và chạy trực tiếp `python lab13.py` để đối chiếu toàn bộ đầu ra với số liệu chuẩn của bài lab (sai số $< 2\%$).
 
-## 6. Tự đánh giá
+## 6. Tự đánh giá 
 
 - Hoàn thành đầy đủ, chính xác 100% các nhiệm vụ được phân công của Người 2 (vai trò chính ở CP4 và vai trò phụ ở CP1, CP2, CP3, CP5).
 - Các file sản phẩm (`bang_chi_phi.md`, `pilot_plan.yaml`, `chi_so.md`, `lab13.py`) đều đạt chuẩn điều kiện "Xong khi" trong `CHECKPOINTS.md` và đáp ứng trọn vẹn các tiêu chí chấm điểm trong `RUBRIC.md`.
